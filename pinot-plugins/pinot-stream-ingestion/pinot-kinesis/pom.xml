@@ -39,7 +39,7 @@
     <aws.version>2.14.28</aws.version>
     <easymock.version>4.2</easymock.version>
     <reactive.version>1.0.2</reactive.version>
-    <localstack-utils.version>0.2.19</localstack-utils.version>
+    <localstack-utils.version>0.2.22</localstack-utils.version>
   </properties>
 
   <dependencyManagement>
